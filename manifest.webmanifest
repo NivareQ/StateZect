@@ -1,0 +1,24 @@
+{
+  "name": "StateZect",
+  "short_name": "StateZect",
+  "description": "A personal ProZect state tracker. Know the state of your ProZects. Your ProZects, their latest truth, and what needs attention next.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090b12",
+  "theme_color": "#090b12",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png?v=statezect-public-v1-0-0",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png?v=statezect-public-v1-0-0",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
